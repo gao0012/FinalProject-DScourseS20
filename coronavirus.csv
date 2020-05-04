@@ -1,0 +1,1086 @@
+id,reporting date,location,country,gender,age,visiting.Wuhan,from.Wuhan,death,symptom,Hospied
+1,1/20/20,"Shenzhen, Guangdong",China,m,66,1,0,0,,1
+2,1/20/20,Shanghai,China,f,56,0,1,0,,1
+3,1/21/20,Zhejiang,China,m,46,0,1,0,,1
+4,1/21/20,Tianjin,China,f,60,1,0,0,,1
+5,1/21/20,Tianjin,China,m,58,0,0,0,,1
+6,1/21/20,Chongqing,China,f,44,0,1,0,,0
+7,1/21/20,Sichuan,China,m,34,0,1,0,,0
+8,1/21/20,Beijing,China,m,37,1,0,0,"cough, shortness of breath",1
+9,1/21/20,Beijing,China,m,39,1,0,0,,1
+10,1/21/20,Beijing,China,m,56,1,0,0,,1
+11,1/21/20,Beijing,China,f,18,1,0,0,,1
+12,1/21/20,Beijing,China,f,32,1,0,0,,1
+13,1/21/20,Shandong,China,m,37,1,0,0,,1
+14,1/21/20,Yunnan,China,m,51,0,1,0,,0
+15,1/22/20,Sichuan,China,m,57,0,1,0,,0
+16,1/22/20,Jiangxi,China,m,56,1,0,0,,0
+17,1/22/20,Jiangxi,China,m,50,1,0,0,,0
+18,1/22/20,Macau,China,f,52,0,1,0,,1
+19,1/22/20,Liaoning,China,m,33,1,0,0,,1
+20,1/22/20,Liaoning,China,m,40,1,0,0,,1
+21,1/22/20,Fujian,China,m,70,1,0,0,,1
+22,1/22/20,Guizhou,China,m,51,0,1,0,,1
+23,1/22/20,Shanxi,China,m,NA,1,0,0,,1
+24,1/22/20,Sichuan,China,f,28,1,0,0,,0
+25,1/22/20,Sichuan,China,m,37,1,0,0,,0
+26,1/22/20,Sichuan,China,m,19,1,0,0,,0
+27,1/22/20,Ningxia,China,m,29,1,0,0,,1
+28,1/22/20,Guangxi,China,f,66,0,1,0,,1
+29,1/22/20,Guangxi,China,m,46,0,0,0,,0
+30,1/22/20,Henan,China,f,32,0,1,0,,0
+31,1/22/20,Henan,China,m,28,1,0,0,,0
+32,1/22/20,Henan,China,m,55,0,1,0,,0
+33,1/22/20,Henan,China,m,68,0,1,0,,1
+34,1/22/20,Shandong,China,m,38,0,0,0,,0
+35,1/22/20,Hebei,China,m,72,0,1,0,,0
+36,1/22/20,Beijing,China,m,45,1,0,0,,1
+37,1/22/20,Beijing,China,m,42,1,0,0,,0
+38,1/22/20,Beijing,China,f,33,0,1,0,,1
+39,1/22/20,Beijing,China,f,33,0,1,0,fatigue,1
+40,1/22/20,Jiangsu,China,m,37,1,0,0,,0
+41,1/23/20,Heilongjiang,China,m,69,1,0,0,,0
+42,1/23/20,Guangxi,China,m,63,0,1,0,,1
+43,1/23/20,Guangxi,China,f,62,0,1,0,,1
+44,1/23/20,Guangxi,China,m,49,0,1,0,,1
+45,1/22/20,Sichuan,China,m,50,1,0,0,fatigue,0
+46,1/22/20,Sichuan,China,m,48,1,0,0,,0
+47,1/22/20,Sichuan,China,m,36,1,0,0,,0
+48,1/22/20,Jilin,China,f,36,1,0,0,,0
+49,1/22/20,"Wuhan, Hubei",China,m,61,0,1,1,,1
+50,1/22/20,"Wuhan, Hubei",China,m,69,0,1,1,,1
+51,1/22/20,"Wuhan, Hubei",China,m,89,0,1,1,"cough, shortness of breath",0
+52,1/22/20,"Wuhan, Hubei",China,m,89,0,1,1,,1
+53,1/22/20,"Wuhan, Hubei",China,m,66,0,1,1,,1
+54,1/22/20,"Wuhan, Hubei",China,m,75,0,1,1,"cough, shortness of breath",1
+55,1/22/20,"Wuhan, Hubei",China,f,48,0,1,1,,0
+56,1/22/20,"Wuhan, Hubei",China,m,82,0,1,1,,1
+57,1/22/20,"Wuhan, Hubei",China,m,66,0,1,1,,1
+58,1/22/20,"Wuhan, Hubei",China,m,81,0,1,1,,1
+59,1/22/20,"Wuhan, Hubei",China,f,82,0,1,1,,1
+60,1/22/20,"Wuhan, Hubei",China,m,65,0,1,1,,1
+61,1/22/20,"Wuhan, Hubei",China,f,80,0,1,1,,1
+62,1/22/20,"Wuhan, Hubei",China,m,53,0,1,1,,1
+63,1/22/20,"Wuhan, Hubei",China,m,86,0,1,1,,1
+64,1/22/20,"Wuhan, Hubei",China,f,70,0,1,1,,1
+65,1/22/20,"Wuhan, Hubei",China,m,84,0,1,1,,1
+66,1/22/20,Liaoning,China,f,50,1,0,0,,0
+67,1/22/20,Hunan,China,m,40,1,0,0,,1
+68,1/22/20,Hunan,China,m,45,1,0,0,,1
+69,1/22/20,Hunan,China,f,66,1,0,0,,1
+70,1/22/20,Hunan,China,m,59,1,0,0,,1
+71,1/22/20,Hunan,China,f,23,1,0,0,"cough, shortness of breath",1
+72,1/22/20,Guizhou,China,f,50,0,0,0,,1
+73,1/23/20,Gansu,China,m,43,0,0,0,,1
+74,1/23/20,Heilongjiang,China,m,49,1,0,0,,0
+75,1/23/20,Shanxi (陕西),China,m,42,1,0,0,,1
+76,1/23/20,Shanxi (陕西),China,f,32,1,0,0,,1
+77,1/23/20,Shanxi (陕西),China,m,22,1,0,0,,1
+78,1/23/20,Xinjiang,China,m,47,1,0,0,,0
+79,1/23/20,Xinjiang,China,m,52,1,0,0,,0
+80,1/23/20,Yunnan,China,m,53,0,1,0,,0
+81,1/23/20,Tianjin,China,m,46,0,0,0,,0
+82,1/23/20,Hubei,China,f,85,0,0,1,"cough, shortness of breath",0
+83,1/23/20,Hubei,China,f,69,0,0,1,,1
+84,1/23/20,Hubei,China,m,36,0,0,1,"myalgia, fever",1
+85,1/23/20,Hubei,China,m,73,0,0,1,,1
+86,1/23/20,Hubei,China,f,70,0,0,1,,1
+87,1/23/20,Hubei,China,m,81,0,0,1,"cough, shortness of breath",1
+88,1/23/20,Hubei,China,f,65,0,0,1,,1
+89,1/23/20,Liaoning,China,m,42,1,0,0,,1
+90,1/24/20,Inner Mongolia,China,m,30,0,1,0,,1
+91,1/24/20,Tianjin,China,f,29,1,0,0,,1
+92,1/24/20,Beijing,China,f,NA,1,0,0,,0
+93,1/24/20,Shaanxi,China,m,49,1,0,0,,1
+94,1/24/20,Shaanxi,China,m,23,1,0,0,,1
+95,1/24/20,Shanghai,China,f,56,0,1,0,,1
+96,1/24/20,Tianjin,China,m,39,1,0,0,,0
+97,1/24/20,Yunnan,China,f,39,1,0,0,,1
+98,1/24/20,Yunnan,China,f,34,0,1,0,,1
+99,1/24/20,Yunnan,China,m,49,0,0,0,,1
+100,1/24/20,"Wuhan, Hubei",China,m,70,0,1,1,,1
+101,1/24/20,"Wuhan, Hubei",China,f,76,0,1,1,,0
+102,1/24/20,"Wuhan, Hubei",China,m,72,0,1,1,"cough, shortness of breath",1
+103,1/24/20,"Wuhan, Hubei",China,m,79,0,1,1,fatigue,1
+104,1/24/20,"Wuhan, Hubei",China,m,55,0,1,1,"myalgia, fever",1
+105,1/24/20,"Wuhan, Hubei",China,m,87,0,1,1,,1
+106,1/24/20,"Wuhan, Hubei",China,f,66,0,1,1,,1
+107,1/24/20,"Wuhan, Hubei",China,m,58,0,1,1,fatigue,1
+108,1/24/20,"Wuhan, Hubei",China,m,66,0,1,1,,1
+109,1/24/20,"Wuhan, Hubei",China,m,78,0,1,1,fatigue,1
+110,1/24/20,"Wuhan, Hubei",China,m,67,0,1,1,"cough, shortness of breath",1
+111,1/24/20,"Wuhan, Hubei",China,m,65,0,1,1,"myalgia, fever",1
+112,1/24/20,"Wuhan, Hubei",China,m,58,0,1,1,,1
+113,1/24/20,"Wuhan, Hubei",China,f,67,0,1,1,,1
+114,1/24/20,"Wuhan, Hubei",China,f,82,0,1,1,"myalgia, fever",1
+115,1/25/20,"Hechi, Guangxi",China,f,49,1,0,0,,1
+116,1/25/20,"Hechi, Guangxi",China,f,2,1,0,0,,1
+117,1/25/20,Beijing,China,m,NA,1,0,0,,0
+118,1/21/20,Tianjin,China,f,59,1,0,0,,0
+119,1/21/20,Tianjin,China,m,57,1,0,0,,0
+120,1/22/20,Tianjin,China,f,68,1,0,0,,0
+121,1/22/20,Tianjin,China,m,40,1,0,0,,0
+122,1/23/20,Tianjin,China,m,46,0,0,0,,1
+123,1/24/20,Tianjin,China,m,56,0,0,0,,1
+124,1/24/20,Tianjin,China,f,29,1,0,0,,1
+125,1/24/20,Tianjin,China,m,29,1,0,0,,1
+126,1/25/20,Tianjin,China,m,57,1,0,0,,1
+127,1/25/20,Tianjin,China,m,30,1,0,0,,1
+128,1/25/20,Gansu,China,f,33,1,0,0,,1
+129,1/25/20,Gansu,China,f,20,0,1,0,,1
+130,1/25/20,Shaanxi,China,f,24,1,0,0,,0
+131,1/25/20,Shaanxi,China,m,28,1,0,0,,1
+132,1/25/20,Shaanxi,China,m,41,1,0,0,,1
+133,1/25/20,Shaanxi,China,m,46,0,1,0,,0
+134,1/25/20,Shaanxi,China,f,45,0,1,0,,0
+135,1/25/20,Shaanxi,China,f,9,0,1,0,,0
+136,1/25/20,Shaanxi,China,m,40,1,0,0,,1
+137,1/25/20,Shaanxi,China,m,28,1,0,0,,1
+138,1/25/20,Shaanxi,China,m,27,1,0,0,,1
+139,1/25/20,Shaanxi,China,m,15,1,0,0,,1
+140,1/25/20,Yunnan,China,f,42,1,0,0,,1
+141,1/25/20,Yunnan,China,m,24,1,0,0,,1
+142,1/25/20,Yunnan,China,f,32,0,1,0,,1
+143,1/25/20,Yunnan,China,m,34,0,1,0,,1
+144,1/25/20,Yunnan,China,m,63,0,1,0,,1
+145,1/25/20,Yunnan,China,m,58,1,0,0,,1
+146,1/21/20,Beijing,China,m,NA,1,0,0,,1
+147,1/21/20,Beijing,China,m,NA,1,0,0,fatigue,1
+148,1/25/20,Beijing,China,m,NA,0,0,0,,1
+149,1/25/20,Xinjiang,China,m,49,0,0,0,,1
+150,1/25/20,Ningxia,China,m,33,1,0,0,,1
+151,1/25/20,Tianjin,China,f,55,0,0,0,,1
+152,1/25/20,Tianjin,China,f,79,0,0,0,,1
+153,1/25/20,Tianjin,China,f,19,0,0,0,,1
+154,1/25/20,Macau,China,f,58,0,1,0,,1
+155,1/25/20,Macau,China,f,39,0,1,0,,1
+156,1/25/20,Macau,China,f,21,0,1,0,,1
+157,1/25/20,Shaanxi,China,f,30,0,0,0,,0
+158,1/25/20,Shaanxi,China,f,64,1,0,0,,1
+159,1/25/20,Shaanxi,China,m,44,1,0,0,,1
+160,1/25/20,Shaanxi,China,f,70,0,1,0,,0
+161,1/25/20,Shaanxi,China,f,52,0,0,0,,0
+162,1/25/20,Shaanxi,China,f,32,0,0,0,,1
+163,1/25/20,Shaanxi,China,m,33,0,0,0,,0
+164,1/26/20,Tianjin,China,m,71,0,1,0,,1
+165,1/26/20,Yunnan,China,m,31,0,1,0,,1
+166,1/26/20,Yunnan,China,f,48,0,1,0,,1
+167,1/26/20,Yunnan,China,f,19,1,0,0,,1
+168,1/26/20,Yunnan,China,f,68,0,1,0,,1
+169,1/26/20,Yunnan,China,m,71,0,1,0,,1
+170,1/27/20,Beijing,China,m,35,0,0,0,,1
+171,1/27/20,Beijing,China,f,4,0,0,0,,1
+172,1/27/20,Beijing,China,m,38,1,1,0,,1
+173,1/27/20,Beijing,China,f,69,1,1,0,,1
+174,1/26/20,Tianjin,China,m,50,1,0,0,,1
+175,1/26/20,Tianjin,China,m,78,0,0,0,,1
+176,1/26/20,Tianjin,China,m,49,0,0,0,,1
+177,1/26/20,Guizhou,China,m,34,1,0,0,,0
+178,1/26/20,Jilin,China,m,NA,1,0,0,,1
+179,1/26/20,Yunnan,China,f,55,0,1,0,,1
+180,1/26/20,Yunnan,China,f,36,0,1,0,,1
+181,1/26/20,Yunnan,China,m,65,0,1,0,,1
+182,1/26/20,Jiangxi,China,m,38,1,0,0,,1
+183,1/27/20,Shaanxi,China,f,36,0,1,0,,1
+184,1/27/20,Shaanxi,China,m,18,0,1,0,,1
+185,1/27/20,Shaanxi,China,m,50,1,0,0,,1
+186,1/27/20,Shaanxi,China,f,40,1,0,0,,1
+187,1/27/20,Shaanxi,China,f,63,0,1,0,,1
+188,1/27/20,Shaanxi,China,f,47,0,1,0,,1
+189,1/27/20,Shaanxi,China,f,42,1,0,0,,1
+190,1/27/20,Shaanxi,China,m,48,0,0,0,,1
+191,1/27/20,Shaanxi,China,m,39,1,0,0,,1
+192,1/27/20,Shaanxi,China,f,41,1,0,0,,1
+193,1/27/20,Shaanxi,China,m,31,0,1,0,,1
+194,1/27/20,Shaanxi,China,m,27,0,1,0,,1
+195,1/27/20,Hubei,China,f,28,0,1,0,"feaver, cough, difficult in breathing",1
+196,1/27/20,Hubei,China,f,51,0,1,0,"feaver, cough, difficult in breathing",1
+197,1/27/20,Shandong,China,m,37,0,1,0,fever,1
+198,1/25/20,Bordeaux,France,m,48,1,0,0,,1
+199,1/25/20,Paris,France,m,31,0,1,0,,1
+200,1/25/20,Paris,France,f,30,0,1,0,,1
+201,1/28/20,Paris,France,m,80,0,1,1,,1
+202,1/29/20,Paris,France,f,NA,1,0,0,,0
+203,1/30/20,Paris,France,m,NA,0,0,0,,0
+204,2/8/20,France,France,f,9,0,0,0,,0
+205,2/8/20,France,France,m,NA,0,0,0,,0
+206,2/8/20,France,France,m,NA,0,0,0,,0
+207,2/8/20,France,France,m,NA,0,0,0,,0
+208,2/8/20,France,France,m,NA,0,0,0,,0
+209,2/15/20,France,France,f,NA,0,0,0,,0
+210,2/25/20,Paris,France,f,33,0,0,0,,0
+211,2/25/20,Annecy,France,m,63,0,0,0,,0
+212,2/26/20,Amiens,France,m,55,0,0,0,,0
+213,2/26/20,Strasbourg,France,m,36,0,0,0,,0
+214,2/26/20,Paris,France,m,60,0,0,1,,0
+215,2/26/20,Annecy,France,f,60,0,0,0,,0
+216,2/27/20,Paris,France,f,NA,0,0,0,,0
+217,2/27/20,Paris,France,f,NA,0,0,0,,0
+218,2/27/20,Saint-Mande,France,m,NA,0,0,0,,0
+219,2/27/20,Saint-Mande,France,f,NA,0,0,0,,0
+220,2/27/20,Saint-Mande,France,m,NA,0,0,0,,0
+221,2/27/20,Saint-Mande,France,f,NA,0,0,0,,0
+222,2/27/20,Saint-Mande,France,m,NA,0,0,0,,0
+223,2/27/20,Dijon,France,f,NA,0,0,0,,0
+224,2/27/20,Dijon,France,m,NA,0,0,0,,0
+225,2/27/20,Dijon,France,f,NA,0,0,0,,0
+226,2/27/20,Lile,France,m,NA,0,0,0,,0
+227,2/27/20,Nantes,France,f,58,0,0,0,,0
+228,2/27/20,Montpellier,France,m,31,0,0,0,,1
+229,2/27/20,Paris,France,f,NA,0,0,0,,0
+230,2/27/20,Brest,France,m,72,0,0,0,,0
+231,2/27/20,Dijon,France,m,NA,0,0,0,,0
+232,2/27/20,Lyon,France,m,50,0,0,0,,0
+233,2/27/20,Annecy,France,f,65,0,0,0,,0
+234,2/27/20,Annecy,France,f,35,0,0,0,,0
+235,2/27/20,Bois-Guillaume,France,m,NA,0,0,0,,0
+236,2/28/20,Nice,France,f,23,0,0,0,,0
+237,1/15/20,Kanagawa,Japan,m,35,1,0,0,fever,1
+238,1/24/20,Tokyo,Japan,m,45,0,1,0,,1
+239,1/25/20,Tokyo,Japan,f,35,0,1,0,,1
+240,1/26/20,Aichi Prefecture,Japan,m,45,0,1,0,,1
+241,1/28/20,Aichi Prefecture,Japan,m,45,0,1,0,fever,1
+242,1/28/20,Nara Prefecture,Japan,m,65,0,0,0,"cough, chills, joint pain",1
+243,1/28/20,Hokkaido,Japan,f,45,1,1,0,"fever, cough",1
+244,1/29/20,Osaka Prefecture,Japan,f,45,0,0,0,"fever, cough",1
+245,1/30/20,Tokyo,Japan,m,55,0,1,0,"throat pain, fever",1
+246,1/30/20,Mie,Japan,m,55,1,0,0,fever,1
+247,1/30/20,Japan,Japan,f,35,1,0,0,"fever, cough",1
+248,1/30/20,Kyoto,Japan,f,25,1,0,0,fever,1
+249,1/31/20,Haneda,Japan,f,25,1,0,0,,1
+250,2/1/20,Japan,Japan,m,45,1,0,0,,0
+251,2/1/20,Japan,Japan,m,45,1,0,0,"fever, cough",1
+252,2/1/20,Japan,Japan,m,35,1,0,0,,0
+253,2/4/20,Chiba Prefecture,Japan,f,35,0,1,0,"fever, runny nose",1
+254,2/4/20,Chiba Prefecture,Japan,f,55,1,0,0,"fever, cough",1
+255,2/4/20,Japan,Japan,m,55,0,1,0,fever,1
+256,2/5/20,Chiba Prefecture,Japan,m,45,0,1,0,,1
+257,2/5/20,Kyoto,Japan,m,25,0,0,0,fever,1
+258,2/5/20,Japan,Japan,m,55,0,1,0,,0
+259,2/8/20,Japan,Japan,m,25,0,1,0,,0
+260,2/10/20,Japan,Japan,m,45,1,0,0,fever,1
+261,2/10/20,Japan,Japan,m,55,0,1,0,"fever, cough",1
+262,NA,Japan,Japan,m,NA,0,0,0,,0
+263,2/13/20,Kanagawa,Japan,f,85,0,0,1,fatigue,1
+264,2/13/20,Tokyo,Japan,m,75,0,0,0,fever,1
+265,2/13/20,Wakayama Prefecture,Japan,m,55,0,0,0,"fever, abdominal pain, diarrhea",1
+266,2/13/20,Chiba Prefecture,Japan,m,25,0,0,0,"fever, cough",1
+267,2/14/20,Japan,Japan,m,75,0,0,1,"cold, fever, pneumonia",1
+268,2/14/20,Okinawa Prefecture,Japan,f,65,0,0,0,"cough, joint pain",1
+269,2/14/20,Tokyo,Japan,f,55,0,0,0,"vomiting, diarrhea, fever, cough",1
+270,2/14/20,Tokyo,Japan,m,75,0,0,0,"fever, loss of appetite",1
+271,2/14/20,Aichi Prefecture,Japan,m,65,0,0,0,fever,1
+272,2/14/20,Hokkaido,Japan,m,55,0,0,0,"fever, cough, malaise",1
+273,2/14/20,Kanagawa,Japan,m,35,0,0,0,fever,1
+274,2/15/20,Wakayama Prefecture,Japan,m,55,0,0,0,fever,1
+275,2/15/20,Wakayama Prefecture,Japan,f,55,0,0,0,"fever, cough",0
+276,2/15/20,Wakayama Prefecture,Japan,m,65,0,0,0,"fever, headache",0
+277,2/15/20,Aichi Prefecture,Japan,f,65,0,0,0,,1
+278,2/15/20,Tokyo,Japan,f,65,0,0,0,,0
+279,2/15/20,Tokyo,Japan,m,45,0,0,0,,0
+280,2/16/20,Tokyo,Japan,m,65,0,0,0,"fatigue, difficulty breathing",0
+281,2/16/20,Tokyo,Japan,m,35,0,0,0,"fever, malaise",1
+282,2/16/20,Aichi Prefecture,Japan,m,65,0,0,0,fever,1
+283,2/16/20,Nara Prefecture,Japan,m,65,0,0,0,"fever, malaise",1
+284,2/17/20,Aichi Prefecture,Japan,m,65,0,0,0,"fever, malaise",1
+285,2/17/20,Wakayama Prefecture,Japan,f,85,0,0,0,,1
+286,2/17/20,Wakayama Prefecture,Japan,f,55,0,0,0,,1
+287,2/17/20,Wakayama Prefecture,Japan,m,55,0,0,0,fever,1
+288,2/17/20,Wakayama Prefecture,Japan,m,55,0,0,0,fever,1
+289,2/17/20,Wakayama Prefecture,Japan,f,45,0,0,0,"fever, vomiting, diarrhea",1
+290,2/18/20,Wakayama Prefecture,Japan,m,65,0,0,0,fever,1
+291,2/18/20,Wakayama Prefecture,Japan,m,35,0,0,0,fever,1
+292,2/18/20,Tokyo,Japan,m,85,0,0,1,"fever, pneumonia",0
+293,2/18/20,Japan,Japan,m,25,0,0,0,fever,0
+294,2/18/20,Japan,Japan,m,55,0,0,0,"fever, cough, sputum, malaise",0
+295,2/18/20,Aichi Prefecture,Japan,m,65,0,0,0,,0
+296,2/19/20,Sagamihara,Japan,m,85,0,0,0,,0
+297,2/19/20,Sagamihara,Japan,m,75,0,0,0,"fever, cough",0
+298,2/19/20,Kanagawa,Japan,m,65,0,0,0,fever,1
+299,2/19/20,Sapporo,Japan,m,45,0,0,0,"fatigue, muscle pain, joint pain, fever",1
+300,2/19/20,Hokkaido,Japan,m,65,0,0,0,"fever, sore throat",1
+301,2/19/20,Okinawa Prefecture,Japan,m,65,0,0,0,"fever, breathlessness, malaise",1
+302,2/19/20,Tokyo,Japan,m,75,0,0,0,"cough, malaise, shortness of breath",0
+303,2/19/20,Tokyo,Japan,f,75,0,0,0,"cough, malaise, shortness of breath",0
+304,2/19/20,Tokyo,Japan,f,75,0,0,0,"cough, sputum, dyspnea",0
+305,2/19/20,Nagoya City,Japan,f,55,0,0,0,"fever, malaise",1
+306,2/19/20,Japan,Japan,m,55,0,0,0,,0
+307,2/20/20,Fukuoka Prefecture,Japan,m,65,0,0,0,"fever, pneumonia",1
+308,2/20/20,Hokkaido,Japan,m,45,0,0,0,,0
+309,2/20/20,Chiba Prefecture,Japan,f,75,0,0,0,fever,1
+310,2/20/20,Okinawa Prefecture,Japan,m,85,0,0,0,"fever, malaise, diarrhea, cough",1
+311,2/20/20,Japan,Japan,m,NA,0,0,0,,0
+312,2/20/20,Japan,Japan,m,NA,0,0,0,,0
+313,2/20/20,Nagoya City,Japan,m,85,0,0,0,fever,1
+314,2/20/20,Sagamihara,Japan,m,85,0,0,0,fever,0
+315,2/20/20,Fukuoka Prefecture,Japan,f,65,0,0,0,,0
+316,2/21/20,Hokkaido,Japan,m,5,0,0,0,fever,1
+317,2/21/20,Hokkaido,Japan,m,15,0,0,0,,1
+318,2/21/20,Hokkaido,Japan,f,45,0,0,0,fever,1
+319,2/21/20,Ishikawa,Japan,m,55,0,0,0,fever,1
+320,2/21/20,Saitama Prefecture,Japan,m,5,1,0,0,,0
+321,2/21/20,Tokyo,Japan,f,55,0,0,0,"fever, cough, sputum",0
+322,2/21/20,Tokyo,Japan,f,75,0,0,0,"fever, cough, malaise",0
+323,2/21/20,Tokyo,Japan,f,55,0,0,0,fatigue,0
+324,2/21/20,Chiba Prefecture,Japan,m,65,0,0,0,"fatigue, loss of appetite",1
+325,2/21/20,Sagamihara,Japan,m,85,0,0,0,,1
+326,2/21/20,Nagoya City,Japan,m,75,0,0,0,"fever, cough",1
+327,2/21/20,Nagoya City,Japan,f,25,0,0,0,"fever, cough, breathlessness",1
+328,2/22/20,Kumamoto City,Japan,f,25,0,0,0,"cough, fever, headache, nausea, vomiting, diarrhea",1
+329,2/22/20,Kumamoto City,Japan,m,55,0,0,0,"cough, fever",1
+330,2/22/20,Kumamoto Prefecture,Japan,m,65,0,0,0,"fatigue, cold, fever, vomiting",1
+331,2/22/20,Wakayama Prefecture,Japan,m,45,0,0,0,"fever, fatigue, cough, diarrhea",1
+332,2/22/20,Chiba Prefecture,Japan,f,65,0,0,0,nausea,1
+333,2/22/20,Japan,Japan,f,55,0,0,0,"fatigue, joint pain, fever",1
+334,2/22/20,Hokkaido,Japan,f,75,0,0,0,"cough, sputum",1
+335,2/22/20,Hokkaido,Japan,m,85,0,0,1,difficulty breathing,1
+336,2/22/20,Hokkaido,Japan,m,75,0,0,0,"fever, cough, malaise",1
+337,2/22/20,Hokkaido,Japan,f,55,0,0,0,,1
+338,2/22/20,Hokkaido,Japan,m,65,0,0,0,fever,1
+339,2/22/20,Hokkaido,Japan,f,55,0,0,0,"fatigue, malaise, headache",1
+340,2/22/20,Hokkaido,Japan,f,15,0,0,0,"fever, sore throat, malaise",1
+341,2/22/20,Hokkaido,Japan,f,55,0,0,0,"sore throat, cough, fever",1
+342,2/22/20,Tokyo,Japan,m,65,0,0,0,"fever, cough",0
+343,2/22/20,Nagoya City,Japan,f,65,0,0,0,"fever, nasal discharge, headache",1
+344,2/22/20,Nagoya City,Japan,f,46,0,0,0,fever,1
+345,2/22/20,Nagoya City,Japan,m,65,0,0,0,"fever, cough, malaise",1
+346,2/22/20,Nagoya City,Japan,m,65,0,0,0,fever,1
+347,2/22/20,Japan,Japan,f,65,0,0,0,fever,1
+348,2/22/20,Sagamihara,Japan,m,55,0,0,0,fever,1
+349,2/22/20,Hokkaido,Japan,m,55,0,0,0,"fever, difficulty breathing",1
+350,2/23/20,Sapporo,Japan,m,75,0,0,0,,0
+351,2/23/20,Nagoya City,Japan,f,75,0,0,0,fever,1
+352,2/23/20,Nagoya City,Japan,m,75,0,0,0,"fever, cough",1
+353,2/23/20,Chiba Prefecture,Japan,m,45,0,0,0,"joint pain, muscle pain, cough, malaise",1
+354,2/23/20,Hokkaido,Japan,m,35,0,0,0,,0
+355,2/23/20,Hokkaido,Japan,f,65,0,0,0,,0
+356,2/23/20,Hokkaido,Japan,m,25,0,0,0,,0
+357,2/23/20,Hokkaido,Japan,m,75,0,0,0,,0
+358,2/23/20,Hokkaido,Japan,f,35,0,0,0,,0
+359,2/23/20,Hokkaido,Japan,m,85,0,0,0,,0
+360,2/23/20,Hokkaido,Japan,f,45,0,0,0,,0
+361,2/23/20,Hokkaido,Japan,f,25,0,0,0,,0
+362,2/23/20,Ishikawa,Japan,f,55,0,0,0,,0
+363,2/23/20,Sagamihara,Japan,m,55,0,0,0,"fever, headache",1
+364,2/24/20,Ishikawa,Japan,m,65,0,0,0,"fever, sore throat",1
+365,2/24/20,Sapporo,Japan,f,75,0,0,0,"fever, cough",1
+366,2/24/20,Sapporo,Japan,m,55,0,0,0,chills,1
+367,2/24/20,Hokkaido,Japan,f,25,0,0,0,fever,1
+368,2/24/20,Hokkaido,Japan,m,55,0,0,0,cough,1
+369,2/24/20,Kanagawa,Japan,m,55,0,0,0,"fever, respiratory distress",1
+370,2/24/20,Tokyo,Japan,m,45,0,0,0,"fever, malaise",0
+371,2/24/20,Tokyo,Japan,m,55,0,0,0,"fever, malaise",0
+372,2/24/20,Tokyo,Japan,m,35,0,0,0,"fever, sore throat",0
+373,2/24/20,Sagamihara,Japan,f,55,0,0,0,"mild cough, sputum, throat discomfort",0
+374,2/24/20,Sagamihara,Japan,f,25,0,0,0,"cough, sneeze",0
+375,2/24/20,Sagamihara,Japan,f,25,0,0,0,"fever, chills, joint pain, heavy head",1
+376,2/25/20,Nagano Prefecture,Japan,m,65,0,0,0,"fatigue, fever",1
+377,2/25/20,Kumamoto City,Japan,m,55,0,0,0,sore throat,1
+378,2/25/20,Kumamoto City,Japan,f,65,0,0,0,fever,1
+379,2/25/20,Sapporo,Japan,f,65,0,0,0,fever,1
+380,2/25/20,Ishikawa,Japan,f,55,0,0,0,,0
+381,2/25/20,Nagoya City,Japan,f,75,0,0,0,fever,1
+382,2/25/20,Nagoya City,Japan,f,75,0,0,0,"fever, cough",1
+383,2/25/20,Nagoya City,Japan,f,45,0,0,0,"fever, runny nose",1
+384,2/26/20,Chiba Prefecture,Japan,m,55,0,0,0,fever,1
+385,2/26/20,Chiba Prefecture,Japan,m,65,0,0,0,fever,1
+386,2/26/20,Chiba Prefecture,Japan,m,75,0,0,0,fever,0
+387,2/26/20,Hokkaido,Japan,m,25,0,0,0,"headache, fever, malaise",1
+388,2/26/20,Hokkaido,Japan,f,25,0,0,0,"sore throat, fever",1
+389,2/26/20,Hokkaido,Japan,m,75,0,0,0,fever,0
+390,2/26/20,Hokkaido,Japan,m,NA,0,0,1,cough,1
+391,2/26/20,Hokkaido,Japan,f,75,0,0,0,"fever, malaise",1
+392,2/26/20,Hokkaido,Japan,f,75,0,0,0,"fever, cough",1
+393,2/26/20,Hokkaido,Japan,m,45,0,0,0,"fever, cough",1
+394,2/26/20,Kanagawa,Japan,m,65,0,0,0,"fever, cough, malaise",1
+395,2/26/20,Osaka Prefecture,Japan,f,45,0,0,0,"throat discomfort, cough, chest pain",1
+396,2/26/20,Tokyo,Japan,m,85,0,0,0,"fever, cough, sputum, dyspnea",0
+397,2/26/20,Tokyo,Japan,m,75,0,0,0,"fever, cough, sputum, dyspnea",0
+398,2/26/20,Tokyo,Japan,m,75,0,0,0,"fever, cough, sputum",0
+399,2/26/20,Nagoya City,Japan,m,55,0,0,0,"fever, thirst",1
+400,2/26/20,Nagoya City,Japan,m,65,0,0,0,fever,1
+401,2/26/20,Nagoya City,Japan,m,75,0,0,0,"fever, cough, runny nose",1
+402,2/26/20,Nagoya City,Japan,m,75,0,0,0,"fever, cough, malaise",1
+403,2/26/20,Nagoya City,Japan,f,75,0,0,0,"fever, cough, sore throat, runny nose",1
+404,2/27/20,Gifu Prefecture,Japan,m,55,0,0,0,"malaise, fever, headache",1
+405,2/27/20,Gifu Prefecture,Japan,f,55,0,0,0,"throat pain, chills",1
+406,2/27/20,Ishikawa,Japan,m,55,0,0,0,fever,1
+407,2/27/20,Kanagawa,Japan,m,55,0,0,0,"fever, headache, malaise",1
+408,2/27/20,Tokyo,Japan,f,60,0,0,0,"fever, cough, sputum",0
+409,2/27/20,Osaka Prefecture,Japan,m,45,0,0,0,"fever, cough, headache",1
+410,2/27/20,Hokkaido,Japan,m,55,0,0,0,,1
+411,2/27/20,Hokkaido,Japan,m,55,0,0,0,"cough, malaise",1
+412,2/27/20,Hokkaido,Japan,m,35,0,0,0,fever,1
+413,2/27/20,Hokkaido,Japan,m,75,0,0,0,"fatigue, fever",1
+414,2/27/20,Hokkaido,Japan,m,65,0,0,0,"sore throat, fever, joint pain, dyspnea",1
+415,2/27/20,Hokkaido,Japan,m,45,0,0,0,"vomiting, cough, fever, sore throat",1
+416,2/27/20,Hokkaido,Japan,m,45,0,0,0,fever,1
+417,2/27/20,Hokkaido,Japan,m,5,0,0,0,"fever, cough",1
+418,2/27/20,Hokkaido,Japan,m,35,0,0,0,"fever, headache, malaise, joint pain",1
+419,2/27/20,Hokkaido,Japan,m,5,0,0,0,"fever, cough",1
+420,2/27/20,Hokkaido,Japan,m,85,0,0,0,"fever, cough",1
+421,2/27/20,Hokkaido,Japan,m,35,0,0,0,"cough, fever, joint pain",1
+422,2/27/20,Hokkaido,Japan,m,85,0,0,0,"cough, fever",1
+423,2/27/20,Hokkaido,Japan,m,65,0,0,0,"fever, malaise, sore throat",1
+424,2/27/20,Hokkaido,Japan,f,45,0,0,0,"cough, sore throat",0
+425,2/27/20,Nagoya City,Japan,f,65,0,0,0,fever,1
+426,2/27/20,Nagoya City,Japan,m,65,0,0,0,"fever, cough, headache",1
+427,1/24/20,Johor,Malaysia,m,40,0,1,0,,1
+428,1/25/20,Johor,Malaysia,f,65,0,0,0,,0
+429,1/25/20,Johor,Malaysia,m,11,0,0,0,,0
+430,1/25/20,Johor,Malaysia,m,2,0,0,0,,0
+431,1/29/20,Langkawi,Malaysia,f,4,0,0,0,"fever, cough, flu",1
+432,1/29/20,Johor,Malaysia,f,36,0,0,0,,0
+433,1/29/20,Johor,Malaysia,m,52,0,0,0,,0
+434,1/30/20,Johor,Malaysia,f,49,0,0,0,,0
+435,2/4/20,Malaysia,Malaysia,m,41,0,0,0,,1
+436,2/4/20,Malaysia,Malaysia,m,63,0,1,0,fever,0
+437,2/5/20,Malaysia,Malaysia,m,45,1,0,0,,0
+438,2/5/20,Malaysia,Malaysia,m,9,1,0,0,,0
+439,2/6/20,Malaysia,Malaysia,f,40,0,0,0,"fever, sore throat, cough",0
+440,2/6/20,Malaysia,Malaysia,f,37,0,1,0,mild fever,1
+441,2/7/20,Johor,Malaysia,f,59,0,1,0,fever,0
+442,2/8/20,Malaysia,Malaysia,f,67,0,1,0,,0
+443,2/9/20,Malaysia,Malaysia,f,65,0,0,0,,0
+444,2/10/20,Malaysia,Malaysia,m,31,0,0,0,cough,0
+445,2/13/20,Malaysia,Malaysia,f,39,0,1,0,,0
+446,2/16/20,Malaysia,Malaysia,m,27,0,0,0,fever,1
+447,2/16/20,Malaysia,Malaysia,f,32,0,0,0,sore throat,0
+448,2/16/20,Malaysia,Malaysia,f,83,0,0,0,,0
+449,2/27/20,Malaysia,Malaysia,f,53,0,0,0,,0
+450,1/25/20,Kathmandu,Nepal,m,32,0,1,0,,1
+451,1/24/20,Singapore,Singapore,m,66,0,1,0,,1
+452,1/24/20,Singapore,Singapore,f,53,0,1,0,"fever, cough, chills",1
+453,1/24/20,Singapore,Singapore,m,37,0,1,0,,0
+454,1/26/20,Singapore,Singapore,m,36,0,1,0,,1
+455,1/27/20,Singapore,Singapore,f,56,0,1,0,,1
+456,1/28/20,Singapore,Singapore,m,56,0,1,0,,1
+457,1/28/20,Singapore,Singapore,m,35,0,1,0,,1
+458,1/29/20,Singapore,Singapore,f,56,1,0,0,,1
+459,1/29/20,Singapore,Singapore,m,56,1,0,0,,1
+460,1/29/20,Singapore,Singapore,m,56,1,0,0,,1
+461,1/30/20,Singapore,Singapore,f,31,0,1,0,,0
+462,1/30/20,Singapore,Singapore,f,37,0,1,0,,1
+463,1/30/20,Singapore,Singapore,f,73,0,1,0,,0
+464,1/31/20,Singapore,Singapore,m,31,1,0,0,,1
+465,1/31/20,Singapore,Singapore,f,47,1,0,0,fever,1
+466,1/31/20,Singapore,Singapore,m,38,1,0,0,,1
+467,2/1/20,Singapore,Singapore,f,47,1,0,0,fever,1
+468,2/1/20,Singapore,Singapore,f,31,1,0,0,,0
+469,2/4/20,Singapore,Singapore,f,28,0,0,0,"fever, sore throat",1
+470,2/4/20,Singapore,Singapore,f,48,0,0,0,,1
+471,2/4/20,Singapore,Singapore,f,44,0,0,0,,1
+472,2/4/20,Singapore,Singapore,f,NA,1,0,0,,0
+473,2/4/20,Singapore,Singapore,f,NA,1,0,0,,0
+474,2/4/20,Singapore,Singapore,f,32,0,0,0,,0
+475,2/5/20,Singapore,Singapore,m,NA,0,0,0,fever,0
+476,2/5/20,Singapore,Singapore,f,42,1,0,0,,0
+477,2/5/20,Singapore,Singapore,m,0.5,0,0,0,,0
+478,2/5/20,Singapore,Singapore,m,45,0,0,0,,1
+479,2/6/20,Singapore,Singapore,m,41,0,0,0,fever,1
+480,2/6/20,Singapore,Singapore,m,27,0,0,0,,1
+481,2/7/20,Singapore,Singapore,m,53,0,0,0,,1
+482,2/7/20,Singapore,Singapore,f,42,0,0,0,,1
+483,2/7/20,Singapore,Singapore,f,39,0,0,0,,1
+484,2/8/20,Singapore,Singapore,f,40,0,0,0,,1
+485,2/8/20,Singapore,Singapore,m,64,0,0,0,,1
+486,2/8/20,Singapore,Singapore,f,38,0,0,0,,1
+487,2/8/20,Singapore,Singapore,m,53,0,0,0,,1
+488,2/8/20,Singapore,Singapore,f,52,0,0,0,,1
+489,2/8/20,Singapore,Singapore,m,51,0,0,0,,1
+490,2/8/20,Singapore,Singapore,m,36,0,0,0,,1
+491,2/9/20,Singapore,Singapore,m,71,0,0,0,,1
+492,2/9/20,Singapore,Singapore,m,39,0,0,0,,1
+493,2/9/20,Singapore,Singapore,m,54,0,0,0,,1
+494,2/10/20,Singapore,Singapore,m,37,0,0,0,,1
+495,2/10/20,Singapore,Singapore,f,2,1,0,0,,0
+496,2/11/20,Singapore,Singapore,m,35,0,0,0,,1
+497,2/11/20,Singapore,Singapore,m,39,0,0,0,,1
+498,2/12/20,Singapore,Singapore,m,34,0,0,0,,1
+499,2/12/20,Singapore,Singapore,m,46,0,0,0,,1
+500,2/12/20,Singapore,Singapore,m,62,0,0,0,,1
+501,2/13/20,Singapore,Singapore,m,48,0,0,0,,1
+502,2/13/20,Singapore,Singapore,m,37,0,0,0,,1
+503,2/13/20,Singapore,Singapore,m,54,0,0,0,,1
+504,2/13/20,Singapore,Singapore,f,55,0,0,0,,1
+505,2/13/20,Singapore,Singapore,m,30,0,0,0,,1
+506,2/13/20,Singapore,Singapore,m,30,0,0,0,,0
+507,2/13/20,Singapore,Singapore,m,26,0,0,0,,1
+508,2/13/20,Singapore,Singapore,m,55,0,0,0,,1
+509,2/14/20,Singapore,Singapore,m,61,0,0,0,,1
+510,2/14/20,Singapore,Singapore,f,51,0,0,0,,1
+511,2/14/20,Singapore,Singapore,m,57,0,0,0,,1
+512,2/14/20,Singapore,Singapore,f,44,0,0,0,,1
+513,2/14/20,Singapore,Singapore,f,54,0,0,0,,1
+514,2/14/20,Singapore,Singapore,m,50,0,0,0,,1
+515,2/14/20,Singapore,Singapore,f,61,0,0,0,,1
+516,2/14/20,Singapore,Singapore,m,28,0,0,0,,1
+517,2/14/20,Singapore,Singapore,f,56,0,0,0,,1
+518,2/15/20,Singapore,Singapore,f,79,0,0,0,,1
+519,2/15/20,Singapore,Singapore,m,26,0,0,0,,1
+520,2/15/20,Singapore,Singapore,f,27,0,0,0,,1
+521,2/15/20,Singapore,Singapore,m,25,0,0,0,,1
+522,2/15/20,Singapore,Singapore,m,40,0,0,0,,1
+523,2/16/20,Singapore,Singapore,m,43,0,0,0,,1
+524,2/16/20,Singapore,Singapore,m,29,0,0,0,,1
+525,2/16/20,Singapore,Singapore,f,71,0,0,0,,0
+526,2/17/20,Singapore,Singapore,m,1,0,0,0,,0
+527,2/17/20,Singapore,Singapore,m,35,0,0,0,,0
+528,2/18/20,Singapore,Singapore,f,57,0,0,0,,1
+529,2/18/20,Singapore,Singapore,f,35,0,0,0,,1
+530,2/18/20,Singapore,Singapore,f,38,0,0,0,,1
+531,2/18/20,Singapore,Singapore,m,50,0,0,0,,1
+532,2/19/20,Singapore,Singapore,f,57,0,0,0,,1
+533,2/19/20,Singapore,Singapore,m,54,0,0,0,,1
+534,2/19/20,Singapore,Singapore,f,35,0,0,0,,1
+535,2/19/20,Singapore,Singapore,m,36,0,0,0,,1
+536,2/21/20,Singapore,Singapore,m,24,0,0,0,,1
+537,2/22/20,Singapore,Singapore,m,32,1,0,0,,0
+538,2/22/20,Singapore,Singapore,f,30,0,0,0,,1
+539,2/22/20,Singapore,Singapore,m,41,0,0,0,,1
+540,2/24/20,Singapore,Singapore,f,75,0,0,0,,1
+541,2/25/20,Singapore,Singapore,f,58,0,0,0,,1
+542,2/26/20,Singapore,Singapore,m,47,0,0,0,,0
+543,2/26/20,Singapore,Singapore,m,38,0,0,0,,0
+544,1/20/20,South Korea,South Korea,f,35,0,1,0,"high fever, chills, muscle pain",1
+545,1/24/20,South Korea,South Korea,m,55,1,0,0,"fever, sore throat",1
+546,1/25/20,South Korea,South Korea,m,54,0,1,0,"fever, chills, muscle cramps",1
+547,1/27/20,South Korea,South Korea,m,55,1,0,0,"high fever, aching muscles",1
+548,1/30/20,South Korea,South Korea,m,32,1,0,0,,0
+549,1/30/20,South Korea,South Korea,m,56,0,0,0,,0
+550,1/31/20,South Korea,South Korea,m,28,1,0,0,cough,0
+551,1/31/20,South Korea,South Korea,f,62,1,0,0,,0
+552,1/30/20,South Korea,South Korea,f,28,0,0,0,,0
+553,1/31/20,South Korea,South Korea,f,52,0,0,0,headache,0
+554,1/31/20,South Korea,South Korea,m,25,0,0,0,sore body,0
+555,2/1/20,South Korea,South Korea,m,48,0,0,0,,1
+556,2/2/20,South Korea,South Korea,m,28,1,0,0,,0
+557,2/2/20,Seoul,South Korea,f,40,0,0,0,,0
+558,2/2/20,South Korea,South Korea,m,43,1,0,0,,0
+559,2/4/20,South Korea,South Korea,f,42,0,0,0,chills,0
+560,2/5/20,South Korea,South Korea,m,37,0,0,0,,1
+561,2/5/20,South Korea,South Korea,f,21,0,0,0,fatigue,0
+562,2/5/20,South Korea,South Korea,m,36,0,0,0,,0
+563,2/6/20,South Korea,South Korea,f,41,0,0,0,,0
+564,2/6/20,South Korea,South Korea,f,59,0,0,0,,0
+565,2/6/20,South Korea,South Korea,m,46,0,0,0,,0
+566,2/6/20,South Korea,South Korea,f,58,1,0,0,,0
+567,2/7/20,South Korea,South Korea,m,28,1,0,0,sore throat,0
+568,2/9/20,South Korea,South Korea,f,73,0,0,0,"fever, cough, sore throat",0
+569,2/9/20,South Korea,South Korea,m,51,0,0,0,,0
+570,2/9/20,South Korea,South Korea,f,37,0,0,0,,0
+571,2/11/20,South Korea,South Korea,f,30,0,0,0,,0
+572,2/16/20,South Korea,South Korea,m,82,0,0,0,chest discomfort,1
+573,2/17/20,South Korea,South Korea,f,68,0,0,0,"cough, chill, muscle pain",0
+574,2/18/20,South Korea,South Korea,f,61,0,0,0,fever,1
+575,2/19/20,South Korea,South Korea,f,11,0,0,0,,0
+576,2/19/20,South Korea,South Korea,f,40,0,0,0,,0
+577,2/19/20,South Korea,South Korea,m,24,0,0,0,,0
+578,2/19/20,South Korea,South Korea,f,26,0,0,0,,0
+579,2/19/20,South Korea,South Korea,f,48,0,0,0,,0
+580,2/19/20,South Korea,South Korea,m,49,0,0,0,,0
+581,2/19/20,South Korea,South Korea,f,57,0,0,1,,0
+582,2/19/20,South Korea,South Korea,f,61,0,0,0,,0
+583,2/19/20,South Korea,South Korea,m,77,0,0,0,,0
+584,2/19/20,South Korea,South Korea,f,69,0,0,0,,0
+585,2/19/20,South Korea,South Korea,f,29,0,0,0,,0
+586,2/19/20,South Korea,South Korea,f,58,0,0,0,,0
+587,2/19/20,South Korea,South Korea,f,46,0,0,0,,0
+588,2/19/20,South Korea,South Korea,f,54,0,0,0,,0
+589,2/19/20,South Korea,South Korea,m,28,0,0,0,,0
+590,2/19/20,South Korea,South Korea,f,63,0,0,0,,0
+591,2/19/20,South Korea,South Korea,f,72,0,0,0,,0
+592,2/19/20,South Korea,South Korea,m,58,0,0,0,,0
+593,2/19/20,South Korea,South Korea,m,76,0,0,0,,0
+594,2/19/20,South Korea,South Korea,f,61,0,0,0,,0
+595,2/20/20,South Korea,South Korea,m,24,0,0,0,,0
+596,2/20/20,South Korea,South Korea,f,38,0,0,0,,0
+597,2/20/20,South Korea,South Korea,m,57,0,0,1,,0
+598,2/20/20,South Korea,South Korea,m,59,0,0,1,,0
+599,2/20/20,South Korea,South Korea,m,75,0,0,0,,0
+600,2/20/20,South Korea,South Korea,m,30,0,0,0,,0
+601,2/20/20,South Korea,South Korea,f,26,0,0,0,,0
+602,2/20/20,South Korea,South Korea,f,34,0,0,0,,0
+603,2/20/20,South Korea,South Korea,f,59,0,0,0,,0
+604,2/20/20,South Korea,South Korea,f,58,0,0,0,,0
+605,2/20/20,South Korea,South Korea,m,60,0,0,0,,0
+606,2/20/20,South Korea,South Korea,f,52,0,0,0,,0
+607,2/20/20,South Korea,South Korea,f,59,0,0,0,,0
+608,2/20/20,South Korea,South Korea,f,50,0,0,0,,0
+609,2/20/20,South Korea,South Korea,m,22,0,0,0,,0
+610,2/20/20,South Korea,South Korea,f,30,0,0,0,,0
+611,2/20/20,South Korea,South Korea,f,56,0,0,0,,0
+612,2/20/20,South Korea,South Korea,m,29,0,0,0,,0
+613,2/20/20,South Korea,South Korea,f,48,0,0,0,,0
+614,2/20/20,South Korea,South Korea,f,56,0,0,0,,0
+615,2/20/20,South Korea,South Korea,f,39,0,0,0,,0
+616,2/20/20,South Korea,South Korea,f,20,0,0,0,,0
+617,2/20/20,South Korea,South Korea,m,49,0,0,0,,0
+618,2/20/20,South Korea,South Korea,f,23,0,0,0,,0
+619,2/20/20,South Korea,South Korea,m,36,0,0,0,,0
+620,2/20/20,South Korea,South Korea,f,57,0,0,0,,0
+621,2/20/20,South Korea,South Korea,m,55,0,0,0,,0
+622,2/20/20,South Korea,South Korea,f,22,0,0,0,,0
+623,2/20/20,South Korea,South Korea,f,34,0,0,0,,0
+624,2/20/20,South Korea,South Korea,f,65,0,0,0,,0
+625,2/20/20,South Korea,South Korea,m,64,0,0,0,,0
+626,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+627,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+628,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+629,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+630,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+631,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+632,2/20/20,South Korea,South Korea,f,NA,0,0,0,,0
+633,2/20/20,South Korea,South Korea,f,NA,0,0,0,,0
+634,2/20/20,South Korea,South Korea,f,NA,0,0,0,,0
+635,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+636,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+637,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+638,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+639,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+640,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+641,2/20/20,South Korea,South Korea,f,NA,0,0,0,,0
+642,2/20/20,South Korea,South Korea,f,NA,0,0,0,,0
+643,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+644,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+645,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+646,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+647,2/20/20,South Korea,South Korea,m,NA,0,0,0,,0
+648,2/20/20,South Korea,South Korea,m,67,0,0,0,,0
+649,2/20/20,South Korea,South Korea,m,74,0,0,1,fatigue,0
+650,2/21/20,Seoul,South Korea,m,35,0,0,0,,0
+651,2/22/20,South Korea,South Korea,m,62,0,0,1,fatigue,0
+652,2/22/20,South Korea,South Korea,m,58,0,0,1,,0
+653,2/22/20,South Korea,South Korea,m,62,0,0,0,,1
+654,2/23/20,South Korea,South Korea,m,41,0,0,1,,0
+655,2/23/20,South Korea,South Korea,m,36,0,0,1,fatigue,0
+656,2/25/20,South Korea,South Korea,f,69,0,0,0,,0
+657,2/26/20,South Korea,South Korea,m,75,0,0,1,,0
+658,1/21/20,Taiwan,Taiwan,f,55,1,0,0,"fever, cough, shortness of breath",1
+659,1/24/20,Taiwan,Taiwan,f,55,1,0,0,fever,1
+660,1/24/20,Taiwan,Taiwan,m,55,1,0,0,flu symptoms,1
+661,1/27/20,Taiwan,Taiwan,f,50,1,0,0,cough,1
+662,1/27/20,Taiwan,Taiwan,f,50,1,0,0,"fever, muscle aches",1
+663,1/28/20,Taiwan,Taiwan,f,70,0,1,0,fever,1
+664,1/28/20,Taiwan,Taiwan,f,70,0,1,0,fever,1
+665,1/28/20,Taiwan,Taiwan,m,55,0,0,0,cough,0
+666,1/30/20,Taiwan,Taiwan,m,NA,1,0,0,"cough, runny nose",0
+667,1/31/20,Taiwan,Taiwan,f,NA,0,0,0,,1
+668,2/5/20,Taiwan,Taiwan,m,55,1,0,0,,0
+669,2/6/20,Taiwan,Taiwan,m,45,1,0,0,"fever, cough, headache",1
+670,2/6/20,Taiwan,Taiwan,f,25,0,1,0,"cough, chest pain",1
+671,2/6/20,Taiwan,Taiwan,m,55,0,0,0,"fever, cough",1
+672,2/6/20,Taiwan,Taiwan,f,55,0,0,0,cough,1
+673,2/6/20,Taiwan,Taiwan,f,45,0,0,0,"fever, chills, sore throat, runny nose, shortness of breath",1
+674,2/8/20,Taiwan,Taiwan,m,25,0,0,0,,0
+675,2/8/20,Taiwan,Taiwan,m,25,0,0,0,,0
+676,2/16/20,Taiwan,Taiwan,m,65,0,0,1,"cough, shortness of breath",1
+677,2/16/20,Taiwan,Taiwan,m,55,0,0,0,,0
+678,2/17/20,Taiwan,Taiwan,f,85,0,0,0,,0
+679,2/17/20,Taiwan,Taiwan,m,35,0,0,0,"fever, cough",0
+680,2/19/20,Taiwan,Taiwan,f,65,0,0,0,,0
+681,2/20/20,Taiwan,Taiwan,f,60,0,0,0,"fever, cough",0
+682,2/21/20,Taiwan,Taiwan,f,45,0,0,0,"fever, cough",1
+683,2/21/20,Taiwan,Taiwan,f,25,0,0,0,reflux,1
+684,2/23/20,Taiwan,Taiwan,m,85,0,0,0,,0
+685,2/23/20,Taiwan,Taiwan,m,55,0,0,0,throat discomfort,0
+686,2/24/20,Taiwan,Taiwan,m,45,0,0,0,physical discomfort,0
+687,2/24/20,Taiwan,Taiwan,f,75,0,0,0,,1
+688,2/25/20,Taiwan,Taiwan,m,NA,0,0,0,,0
+689,2/26/20,Taiwan,Taiwan,f,35,0,0,0,throat discomfort,1
+690,2/28/20,Taiwan,Taiwan,m,35,0,0,0,"cough, itchy throat",0
+691,2/28/20,Taiwan,Taiwan,f,55,0,0,0,,0
+692,1/13/20,Thailand,Thailand,f,61,0,1,0,"fever, chills, sore throat, headache",1
+693,1/17/20,Thailand,Thailand,f,74,0,1,0,,1
+694,1/22/20,Thailand,Thailand,m,68,1,0,0,fever,1
+695,1/22/20,Thailand,Thailand,f,73,1,0,0,fever,1
+696,1/22/20,Thailand,Thailand,m,NA,1,0,0,fever,1
+697,1/24/20,Thailand,Thailand,f,33,1,0,0,"fever, coughing, muscle aches",1
+698,1/26/20,Thailand,Thailand,f,57,0,1,0,,0
+699,1/26/20,Thailand,Thailand,f,73,0,1,0,,0
+700,1/28/20,Thailand,Thailand,f,6,0,1,0,,0
+701,1/28/20,Thailand,Thailand,f,60,0,1,0,fatigue,0
+702,1/28/20,Thailand,Thailand,f,NA,0,1,0,,0
+703,1/28/20,Thailand,Thailand,f,NA,0,1,0,,0
+704,1/28/20,Thailand,Thailand,f,NA,0,1,0,,0
+705,1/28/20,Thailand,Thailand,f,NA,0,0,0,,0
+706,1/30/20,Thailand,Thailand,m,NA,1,0,0,,0
+707,1/31/20,Thailand,Thailand,m,NA,1,0,0,,0
+708,1/31/20,Thailand,Thailand,m,NA,1,0,0,,0
+709,1/31/20,Thailand,Thailand,f,NA,1,0,0,,0
+710,1/31/20,Thailand,Thailand,m,NA,1,0,0,,0
+711,1/31/20,Thailand,Thailand,m,50,0,0,0,,1
+712,2/4/20,Thailand,Thailand,m,NA,0,0,0,,0
+713,2/4/20,Thailand,Thailand,m,NA,0,0,0,,0
+714,2/4/20,Thailand,Thailand,m,NA,0,0,0,,0
+715,2/4/20,Thailand,Thailand,m,70,0,0,0,,0
+716,2/4/20,Thailand,Thailand,m,NA,0,0,0,,0
+717,2/8/20,Thailand,Thailand,m,NA,1,0,0,,0
+718,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+719,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+720,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+721,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+722,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+723,2/8/20,Thailand,Thailand,m,NA,0,0,0,,0
+724,2/11/20,Thailand,Thailand,f,54,0,1,0,,1
+725,2/15/20,Thailand,Thailand,f,35,0,0,0,,1
+726,2/16/20,Thailand,Thailand,f,60,0,0,0,,1
+727,2/25/20,Thailand,Thailand,f,31,0,0,0,,1
+728,2/25/20,Thailand,Thailand,m,29,0,0,0,,1
+729,2/26/20,Thailand,Thailand,m,NA,0,0,0,cough,1
+730,2/26/20,Thailand,Thailand,f,NA,0,0,0,,0
+731,2/26/20,Thailand,Thailand,m,8,0,0,0,,0
+732,2/28/20,Thailand,Thailand,m,25,0,0,0,"fever, cough",1
+733,1/21/20,Washington,USA,m,35,1,0,0,,1
+734,1/24/20,Illinois,USA,f,61,1,0,0,,1
+735,1/26/20,California,USA,m,NA,0,1,0,,1
+736,1/26/20,California,USA,m,NA,1,0,0,,0
+737,1/26/20,Arizona,USA,m,NA,1,0,0,,0
+738,1/30/20,Illinois,USA,m,65,0,0,0,,1
+739,1/31/20,California,USA,m,NA,1,0,0,,0
+740,1/31/20,Massachusetts,USA,m,25,1,0,0,,0
+741,2/3/20,California,USA,m,57,1,0,0,"cough, fever",0
+742,2/3/20,California,USA,f,57,0,0,0,,0
+743,2/3/20,California,USA,f,NA,1,0,0,,0
+744,2/5/20,Wisconsin,USA,f,NA,0,0,0,,0
+745,2/10/20,California,USA,f,NA,1,0,0,,0
+746,2/12/20,California,USA,f,NA,1,0,0,,0
+747,2/13/20,Texas,USA,f,NA,1,0,0,,0
+748,2/20/20,California,USA,f,NA,0,0,0,,0
+749,2/21/20,California,USA,f,NA,0,0,0,,0
+750,2/27/20,California,USA,f,NA,0,0,0,,0
+751,1/23/20,Ho Chi Minh City,Vietnam,m,66,0,1,0,fever,1
+752,1/23/20,Ho Chi Minh City,Vietnam,m,28,0,0,0,fever,0
+753,1/30/20,Hanoi,Vietnam,m,NA,1,0,0,,0
+754,1/30/20,Hanoi,Vietnam,m,NA,1,0,0,,0
+755,1/30/20,Thanh Hoa,Vietnam,m,NA,1,0,0,,0
+756,2/3/20,Vietnam,Vietnam,m,NA,1,0,0,,0
+757,2/3/20,Vietnam,Vietnam,m,NA,1,0,0,,0
+758,2/3/20,Vietnam,Vietnam,m,NA,1,0,0,,0
+759,2/4/20,Vinh Phuc,Vietnam,m,30,1,0,0,,0
+760,2/4/20,Vinh Phuc,Vietnam,f,42,0,0,0,fever,0
+761,2/6/20,Vinh Phuc,Vietnam,f,16,0,0,0,,0
+762,2/6/20,Vinh Phuc,Vietnam,f,49,0,0,0,,0
+763,2/8/20,Vinh Phuc,Vietnam,f,29,1,0,0,,0
+764,2/9/20,Vinh Phuc,Vietnam,f,55,0,0,0,"fever, headache, runny nose",0
+765,2/10/20,Vinh Phuc,Vietnam,f,0.25,0,0,0,,0
+766,2/13/20,Vinh Phuc,Vietnam,m,50,0,0,0,tired,0
+767,1/25/20,NSW,Australia,m,35,0,0,0,,0
+768,1/25/20,NSW,Australia,m,43,1,0,0,,0
+769,1/25/20,NSW,Australia,m,53,1,0,0,,0
+770,1/25/20,Victoria,Australia,m,55,1,0,0,,1
+771,1/26/20,NSW,Australia,f,21,1,0,0,,1
+772,1/29/20,Queensland,Australia,m,44,0,1,0,,1
+773,1/29/20,Victoria,Australia,m,65,1,0,0,,0
+774,1/30/20,Victoria,Australia,f,45,0,1,0,,0
+775,1/31/20,Queensland,Australia,f,42,0,1,0,,0
+776,2/1/20,South Australia,Australia,m,60,0,1,0,,0
+777,2/1/20,South Australia,Australia,f,60,0,1,0,,0
+778,2/1/20,Victoria,Australia,f,25,1,0,0,,1
+779,2/4/20,Queensland,Australia,m,8,0,1,0,,0
+780,2/5/20,Queensland,Australia,m,37,0,1,0,,0
+781,2/6/20,Queensland,Australia,f,37,0,1,0,,0
+782,1/26/20,Toronto,Canada,m,56,1,0,0,"fever, cough",1
+783,1/27/20,Toronto,Canada,f,55,1,0,0,,0
+784,1/28/20,Vancouver,Canada,m,45,1,0,0,,1
+785,2/1/20,Toronto,Canada,f,25,1,0,0,,1
+786,2/5/20,Vancouver,Canada,f,55,0,0,0,,0
+787,2/6/20,Vancouver,Canada,m,35,0,1,0,,0
+788,2/6/20,Vancouver,Canada,f,35,0,1,0,,0
+789,2/14/20,Vancouver,Canada,f,35,0,0,0,,0
+790,2/21/20,Vancouver,Canada,f,35,0,0,0,,0
+791,2/24/20,Toronto,Canada,f,25,1,0,0,,0
+792,2/24/20,Vancouver,Canada,m,45,0,0,0,,0
+793,2/27/20,Toronto,Canada,f,65,0,0,0,,0
+794,1/27/20,Preah Sihanouk Province,Cambodia,m,60,0,1,0,"fever, runny nose",0
+795,1/28/20,Sri Lanka,Sri Lanka,f,40,0,1,0,fever,1
+796,1/28/20,Bavaria,Germany,m,33,0,0,0,"sore throat, chills, myalgias, fever, cough",0
+797,1/29/20,Bavaria,Germany,m,NA,0,0,0,,0
+798,1/29/20,Bavaria,Germany,m,NA,0,0,0,,0
+799,1/29/20,Bavaria,Germany,m,NA,0,0,0,,0
+800,1/30/20,Bavaria,Germany,m,NA,0,0,0,,0
+801,1/31/20,Bavaria,Germany,m,NA,0,0,0,,0
+802,1/31/20,Bavaria,Germany,m,52,0,0,0,,0
+803,2/1/20,Bavaria,Germany,m,33,0,0,0,,0
+804,2/2/20,Frankfurt,Germany,m,NA,1,0,0,,0
+805,2/2/20,Frankfurt,Germany,m,NA,1,0,0,,0
+806,2/5/20,Bavaria,Germany,m,NA,0,0,0,,0
+807,2/5/20,Bavaria,Germany,m,58,0,0,0,,0
+808,2/6/20,Bavaria,Germany,f,NA,0,0,0,,0
+809,2/7/20,Bavaria,Germany,f,NA,0,0,0,,0
+810,2/11/20,Bavaria,Germany,m,49,0,0,0,,0
+811,2/11/20,Bavaria,Germany,m,NA,0,0,0,,0
+812,2/26/20,Baden-Wuerttemberg,Germany,m,25,0,0,0,,1
+813,2/26/20,Tubingen,Germany,m,60,0,0,0,,0
+814,2/26/20,Tubingen,Germany,f,24,0,0,0,,0
+815,2/26/20,Baden-Wuerttemberg,Germany,m,32,0,0,0,,0
+816,2/26/20,North Rhine-Westphalia,Germany,m,47,0,0,0,"fever, cough",1
+817,2/26/20,North Rhine-Westphalia,Germany,f,46,0,0,0,,0
+818,2/26/20,North Rhine-Westphalia,Germany,m,41,0,0,0,,1
+819,2/26/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+820,2/26/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+821,2/26/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+822,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+823,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+824,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+825,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+826,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+827,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+828,2/27/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+829,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+830,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+831,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+832,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+833,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+834,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+835,2/27/20,North Rhine-Westphalia,Germany,m,NA,0,0,0,,0
+836,2/27/20,Hamburg,Germany,m,NA,0,0,0,,1
+837,2/27/20,Baden-Wuerttemberg,Germany,f,NA,0,0,0,,0
+838,2/27/20,Baden-Wuerttemberg,Germany,f,NA,0,0,0,,0
+839,2/27/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+840,2/27/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+841,2/27/20,Rhineland-Palatinate,Germany,m,NA,0,0,0,,0
+842,2/27/20,Bavaria,Germany,m,NA,0,0,0,,0
+843,2/27/20,Hesse,Germany,m,31,0,0,0,,0
+844,2/28/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+845,2/28/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+846,2/28/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+847,2/28/20,Baden-Wuerttemberg,Germany,m,NA,0,0,0,,0
+848,2/28/20,Baden-Wuerttemberg,Germany,m,32,0,0,0,,0
+849,2/28/20,North Rhine-Westphalia,Germany,f,NA,0,0,0,,0
+850,1/29/20,UAE,UAE,f,73,0,1,0,,0
+851,1/29/20,UAE,UAE,f,36,0,1,0,,0
+852,1/29/20,UAE,UAE,m,41,0,1,0,,0
+853,1/29/20,UAE,UAE,m,8,0,1,0,,0
+854,2/1/20,UAE,UAE,m,NA,1,0,0,,0
+855,2/8/20,UAE,UAE,m,NA,0,0,0,,0
+856,2/8/20,UAE,UAE,m,NA,0,0,0,,0
+857,2/10/20,UAE,UAE,m,NA,0,0,0,,0
+858,2/16/20,UAE,UAE,m,37,0,0,0,,0
+859,2/21/20,UAE,UAE,m,34,0,0,0,,0
+860,2/21/20,UAE,UAE,m,39,0,0,0,,0
+861,2/22/20,UAE,UAE,m,70,0,0,0,,0
+862,2/22/20,UAE,UAE,f,64,0,0,0,,0
+863,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+864,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+865,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+866,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+867,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+868,2/27/20,UAE,UAE,f,NA,0,0,0,,0
+869,2/28/20,UAE,UAE,f,NA,0,0,0,,0
+870,2/28/20,UAE,UAE,f,NA,0,0,0,,0
+871,1/22/20,Hong Kong,Hong Kong,m,39,0,1,0,fever,1
+872,1/22/20,Hong Kong,Hong Kong,m,56,1,0,0,,1
+873,1/24/20,Hong Kong,Hong Kong,f,62,0,1,0,"fever, cough",1
+874,1/24/20,Hong Kong,Hong Kong,f,62,0,1,0,feve\,1
+875,1/24/20,Hong Kong,Hong Kong,m,63,0,1,0,"fever, cough",1
+876,1/27/20,Hong Kong,Hong Kong,m,47,0,1,0,fever,1
+877,1/27/20,Hong Kong,Hong Kong,f,68,1,0,0,fever,1
+878,1/27/20,Hong Kong,Hong Kong,m,64,0,1,0,fever,1
+879,1/29/20,Hong Kong,Hong Kong,f,73,1,0,0,,1
+880,1/29/20,Hong Kong,Hong Kong,m,72,1,0,0,,1
+881,1/30/20,Yau Ma Tei,Hong Kong,f,37,0,0,0,cough,1
+882,1/30/20,Tsing Yi,Hong Kong,m,75,0,0,0,"cough, shortness of breath",1
+883,1/31/20,Kowloon,Hong Kong,m,39,1,0,1,"myalgia, fever",1
+884,2/2/20,Hong Kong,Hong Kong,m,80,0,0,0,fever,1
+885,2/2/20,Kowloon,Hong Kong,f,72,0,0,0,"fever, cough",1
+886,2/4/20,Kowloon,Hong Kong,f,64,0,0,0,cough,1
+887,2/4/20,Hong Kong,Hong Kong,m,60,0,0,0,"fever, myalgia, shortness of breath",1
+888,2/4/20,Kowloon,Hong Kong,m,25,0,0,0,"cough, runny nose, diarrhea",1
+889,2/5/20,Kwun Tong,Hong Kong,f,56,0,0,0,fever,1
+890,2/5/20,Kwun Tong,Hong Kong,f,28,0,0,0,"cough, sore throat",1
+891,2/5/20,Kwai Chung,Hong Kong,m,56,0,0,0,"fever, cough, sore throat",1
+892,2/6/20,Kwai Chung,Hong Kong,f,55,0,0,0,"sore throat, fever, diarrhea",1
+893,2/6/20,Hong Kong,Hong Kong,f,63,0,0,0,"cough, malaise",1
+894,2/6/20,Hong Kong,Hong Kong,f,65,0,0,0,"fever, cough",1
+895,2/7/20,Zhuhai,Hong Kong,m,58,0,0,0,"fever, cough",1
+896,2/7/20,Fo Tan,Hong Kong,m,42,0,0,0,"fever, cough",1
+897,2/9/20,Wan Chai,Hong Kong,m,24,0,0,0,"fever, cough",1
+898,2/9/20,Ngau Chi Wan,Hong Kong,m,70,0,0,0,"cough, chills, shortness of breath, diarrhea",1
+899,2/9/20,Hong Kong,Hong Kong,m,68,0,0,0,,0
+900,2/9/20,Hong Kong,Hong Kong,f,57,0,0,0,,0
+901,2/9/20,Hong Kong,Hong Kong,f,91,0,0,0,,0
+902,2/9/20,Hong Kong,Hong Kong,f,51,0,0,0,,0
+903,2/9/20,Hong Kong,Hong Kong,f,25,0,0,0,,0
+904,2/9/20,Hong Kong,Hong Kong,m,22,0,0,0,,0
+905,2/9/20,Hong Kong,Hong Kong,f,50,0,0,0,,0
+906,2/9/20,Hong Kong,Hong Kong,m,23,0,0,0,,0
+907,2/10/20,Hong Kong,Hong Kong,f,55,0,0,0,,1
+908,2/10/20,Hong Kong,Hong Kong,m,52,0,0,0,,1
+909,2/10/20,Hong Kong,Hong Kong,m,69,0,0,0,,1
+910,2/10/20,Hong Kong,Hong Kong,f,63,0,0,0,,1
+911,2/10/20,Hong Kong,Hong Kong,f,86,0,0,0,,1
+912,2/10/20,Hong Kong,Hong Kong,f,62,0,0,0,,1
+913,2/11/20,Hong Kong,Hong Kong,m,59,0,0,0,,1
+914,2/11/20,Hong Kong,Hong Kong,f,60,0,0,0,,1
+915,2/11/20,Hong Kong,Hong Kong,m,71,0,0,0,,1
+916,2/11/20,Hong Kong,Hong Kong,m,37,0,0,0,,1
+917,2/11/20,Hong Kong,Hong Kong,m,66,0,0,0,,1
+918,2/11/20,Hong Kong,Hong Kong,f,37,0,0,0,,1
+919,2/11/20,Hong Kong,Hong Kong,m,75,0,0,0,,1
+920,2/12/20,Hong Kong,Hong Kong,m,51,0,0,0,fever,1
+921,2/13/20,Hong Kong,Hong Kong,m,43,0,0,0,"cough, diarrhea, vomiting",1
+922,2/13/20,Hong Kong,Hong Kong,f,67,0,0,0,"cough, fever, chills",1
+923,2/13/20,Hong Kong,Hong Kong,m,37,0,0,0,fever,1
+924,2/14/20,Hong Kong,Hong Kong,f,41,0,0,0,,0
+925,2/14/20,Hong Kong,Hong Kong,m,70,0,0,1,cough,1
+926,2/14/20,Hong Kong,Hong Kong,f,NA,0,0,0,,0
+927,2/16/20,Hong Kong,Hong Kong,m,54,0,0,0,fever,1
+928,2/17/20,Hong Kong,Hong Kong,m,69,0,0,0,"cough, shortness of breath",1
+929,2/17/20,Hong Kong,Hong Kong,m,45,0,0,0,"fever, sore throat",1
+930,2/17/20,Hong Kong,Hong Kong,f,46,0,0,0,"runny nose, cough",1
+931,2/18/20,Hong Kong,Hong Kong,f,32,0,0,0,"fever, cough",0
+932,2/18/20,Hong Kong,Hong Kong,m,58,0,0,0,,0
+933,2/19/20,Hong Kong,Hong Kong,f,83,0,0,0,,0
+934,2/19/20,Hong Kong,Hong Kong,f,83,0,0,0,,0
+935,2/19/20,Hong Kong,Hong Kong,m,68,0,0,0,,0
+936,2/19/20,Hong Kong,Hong Kong,f,70,0,0,0,,1
+937,2/20/20,Hong Kong,Hong Kong,m,75,0,0,0,,1
+938,2/20/20,Hong Kong,Hong Kong,f,38,0,0,0,,1
+939,2/20/20,Hong Kong,Hong Kong,m,58,0,0,0,,1
+940,2/20/20,Hong Kong,Hong Kong,m,48,0,0,0,,1
+941,2/22/20,Hong Kong,Hong Kong,f,96,0,0,0,,1
+942,2/23/20,Hong Kong,Hong Kong,m,68,0,0,0,,1
+943,2/23/20,Hong Kong,Hong Kong,m,62,0,0,0,,1
+944,2/23/20,Hong Kong,Hong Kong,f,80,0,0,0,,1
+945,2/23/20,Hong Kong,Hong Kong,f,76,0,0,0,,1
+946,2/24/20,Hong Kong,Hong Kong,m,35,0,0,0,,1
+947,2/24/20,Hong Kong,Hong Kong,f,57,0,0,0,,1
+948,2/24/20,Hong Kong,Hong Kong,f,68,0,0,0,,1
+949,2/24/20,Hong Kong,Hong Kong,f,59,0,0,0,,0
+950,2/24/20,Hong Kong,Hong Kong,f,58,0,0,0,,0
+951,2/24/20,Hong Kong,Hong Kong,m,57,0,0,0,,0
+952,2/24/20,Hong Kong,Hong Kong,f,57,0,0,0,,0
+953,2/25/20,Hong Kong,Hong Kong,m,33,0,0,0,,0
+954,2/25/20,Hong Kong,Hong Kong,f,55,0,0,0,,0
+955,2/25/20,Hong Kong,Hong Kong,m,24,0,0,0,,0
+956,2/25/20,Hong Kong,Hong Kong,f,60,0,0,0,cough,1
+957,2/26/20,Hong Kong,Hong Kong,f,49,0,0,0,"cough, sputum, sore throat",1
+958,2/26/20,Hong Kong,Hong Kong,f,21,0,0,0,fever,1
+959,2/26/20,Hong Kong,Hong Kong,m,16,0,0,0,runny nose,1
+960,2/26/20,Hong Kong,Hong Kong,m,80,0,0,0,"fever, cough",1
+961,2/26/20,Hong Kong,Hong Kong,f,29,0,0,0,,1
+962,2/26/20,Hong Kong,Hong Kong,m,26,0,0,0,"fever, cough",1
+963,2/27/20,Hong Kong,Hong Kong,f,70,0,0,0,cough with sputum,1
+964,2/27/20,Hong Kong,Hong Kong,f,89,0,0,0,cough,1
+965,1/31/20,Rome,Italy,m,NA,1,0,0,,0
+966,1/31/20,Rome,Italy,f,NA,1,0,0,,0
+967,2/6/20,Rome,Italy,m,35,1,0,0,,0
+968,1/31/20,Tyumen,Russia,f,NA,1,0,0,,0
+969,1/31/20,Zabaikalsky,Russia,m,NA,1,0,0,,0
+970,1/31/20,York,UK,m,NA,1,0,0,,0
+971,1/31/20,York,UK,m,NA,1,0,0,,0
+972,2/6/20,London,UK,m,53,0,0,0,,0
+973,2/9/20,London,UK,m,NA,0,0,0,,0
+974,2/10/20,London,UK,m,NA,0,0,0,,0
+975,2/10/20,London,UK,m,NA,0,0,0,,0
+976,2/10/20,London,UK,m,NA,0,0,0,,0
+977,2/10/20,London,UK,f,NA,0,0,0,,0
+978,2/12/20,London,UK,f,NA,0,0,0,,0
+979,2/23/20,UK,UK,f,NA,0,0,0,,0
+980,2/23/20,UK,UK,f,NA,0,0,0,,0
+981,2/23/20,UK,UK,f,NA,0,0,0,,0
+982,2/23/20,UK,UK,f,NA,0,0,0,,0
+983,2/27/20,London,UK,f,NA,0,0,0,,0
+984,2/27/20,London,UK,f,NA,0,0,0,,0
+985,2/27/20,Nortern Ireland,UK,m,NA,0,0,0,,0
+986,2/28/20,UK,UK,m,NA,0,0,0,,0
+987,2/28/20,UK,UK,m,NA,0,0,0,,0
+988,2/28/20,Wales,UK,f,NA,0,0,0,,0
+989,2/28/20,UK,UK,m,NA,0,0,0,,0
+990,1/30/20,Kerala,India,f,NA,1,0,0,,0
+991,2/2/20,Alappuzha,India,f,NA,1,0,0,,0
+992,2/3/20,Kerala,India,f,NA,1,0,0,,0
+993,2/2/20,Manila,Phillipines,f,44,0,1,1,"fever, cough, sore throat",1
+994,2/2/20,Manila,Phillipines,f,38,0,1,0,,0
+995,2/5/20,Phillipines,Phillipines,f,60,1,0,0,,0
+996,1/29/20,Lapland,Finland,f,32,0,1,0,fever,1
+997,1/31/20,Canary Islands,Spain,m,NA,0,0,0,,0
+998,2/10/20,Mallorca,Spain,m,NA,0,0,0,,1
+999,2/24/20,Tenerife,Spain,m,69,0,0,0,,0
+1000,2/25/20,Tenerife,Spain,f,NA,0,0,0,,0
+1001,2/25/20,Barcelona,Spain,f,36,0,0,0,,1
+1002,2/25/20,Madrid,Spain,f,24,0,0,0,,0
+1003,2/25/20,Castellon,Spain,m,31,0,0,0,,0
+1004,2/26/20,Madrid,Spain,m,NA,0,0,0,,0
+1005,2/26/20,Tenerife,Spain,m,NA,0,0,0,,0
+1006,2/26/20,Tenerife,Spain,m,NA,0,0,0,,0
+1007,2/26/20,Barcelona,Spain,m,22,0,0,0,"sore throat, fever",1
+1008,2/26/20,Andalusia,Spain,m,62,0,0,0,,0
+1009,2/26/20,Tenerife,Spain,f,NA,0,0,0,,0
+1010,2/27/20,Valencia,Spain,m,44,0,0,0,,0
+1011,2/27/20,Madrid,Spain,m,77,0,0,0,,0
+1012,2/27/20,Madrid,Spain,m,50,0,0,0,,0
+1013,2/27/20,Barcelona,Spain,f,22,0,0,0,,0
+1014,2/27/20,Castile and Leon,Spain,m,30,0,0,0,,0
+1015,2/27/20,Castile and Leon,Spain,m,18,0,0,0,,0
+1016,2/27/20,Valencia,Spain,m,NA,0,0,0,,0
+1017,2/27/20,Valencia,Spain,m,NA,0,0,0,,0
+1018,2/27/20,Valencia,Spain,m,NA,0,0,0,,0
+1019,2/27/20,Valencia,Spain,m,NA,0,0,0,,0
+1020,2/27/20,Valencia,Spain,f,NA,0,0,0,,0
+1021,2/27/20,Valencia,Spain,m,NA,0,0,0,,0
+1022,2/28/20,Andalusia,Spain,m,28,0,0,0,,0
+1023,2/28/20,Andalusia,Spain,m,42,0,0,0,,0
+1024,2/28/20,Andalusia,Spain,m,53,0,0,0,,0
+1025,2/28/20,Andalusia,Spain,m,81,0,0,0,,0
+1026,2/28/20,Andalusia,Spain,m,55,0,0,0,,0
+1027,2/28/20,Andalusia,Spain,f,25,0,0,0,,0
+1028,2/28/20,Andalusia,Spain,m,58,0,0,0,,0
+1029,2/28/20,Madrid,Spain,m,66,0,0,0,,1
+1030,2/28/20,Zaragoza,Spain,f,27,0,0,0,,0
+1031,1/31/20,Jonkoping,Sweden,f,25,1,0,0,cough,0
+1032,2/4/20,Belgium,Belgium,f,NA,1,0,0,,0
+1033,2/14/20,Egypt,Egypt,f,NA,0,0,0,,0
+1034,2/19/20,Qom,Iran,f,NA,0,0,1,,0
+1035,2/19/20,Qom,Iran,f,NA,0,0,1,,0
+1036,2/20/20,Qom,Iran,f,NA,0,0,1,,0
+1037,2/20/20,Qom,Iran,f,NA,0,0,1,,0
+1038,2/20/20,Araq,Iran,f,NA,0,0,0,,0
+1039,2/21/20,Qom,Iran,f,NA,0,0,0,,0
+1040,2/21/20,Qom,Iran,f,NA,0,0,0,,0
+1041,2/21/20,Qom,Iran,f,NA,0,0,0,,0
+1042,2/21/20,Qom,Iran,m,NA,0,0,0,,0
+1043,2/21/20,Qom,Iran,m,NA,0,0,0,,0
+1044,2/21/20,Qom,Iran,m,NA,0,0,0,,0
+1045,2/21/20,Qom,Iran,m,NA,0,0,0,,0
+1046,2/21/20,Tehran,Iran,m,NA,0,0,0,,0
+1047,2/21/20,Tehran,Iran,m,NA,0,0,0,,0
+1048,2/21/20,Tehran,Iran,m,NA,0,0,0,,0
+1049,2/21/20,Tehran,Iran,m,NA,0,0,0,,0
+1050,2/21/20,Guilan,Iran,m,NA,0,0,0,,0
+1051,2/21/20,Guilan,Iran,m,NA,0,0,0,,0
+1052,2/21/20,Israel,Israel,f,NA,0,0,0,,0
+1053,2/21/20,Lebanon,Lebanon,m,45,0,0,0,,0
+1054,2/24/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1055,2/24/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1056,2/24/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1057,2/24/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1058,2/24/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1059,2/25/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1060,2/25/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1061,2/25/20,Kuwait,Kuwait,m,NA,0,0,0,,0
+1062,2/25/20,Kuwait,Kuwait,f,NA,0,0,0,,0
+1063,2/24/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1064,2/24/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1065,2/25/20,Bahrain,Bahrain,m,NA,0,0,0,,0
+1066,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1067,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1068,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1069,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1070,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1071,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1072,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1073,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1074,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1075,2/25/20,Bahrain,Bahrain,m,NA,0,0,0,,0
+1076,2/25/20,Bahrain,Bahrain,m,NA,0,0,0,,0
+1077,2/25/20,Bahrain,Bahrain,m,NA,0,0,0,,0
+1078,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1079,2/25/20,Bahrain,Bahrain,f,NA,0,0,0,,0
+1080,2/25/20,Innsbruck,Austria,f,24,0,0,0,,0
+1081,2/25/20,Innsbruck,Austria,f,24,0,0,0,,0
+1082,2/24/20,Afghanistan,Afghanistan,f,35,0,0,0,,0
+1083,2/26/20,Algeria,Algeria,m,NA,0,0,0,,0
+1084,2/25/20,Croatia,Croatia,m,NA,0,0,0,,0
+1085,2/25/20,Bern,Switzerland,m,70,0,0,0,,0
