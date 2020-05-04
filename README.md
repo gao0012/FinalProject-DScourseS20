@@ -1,9 +1,7 @@
 DScourseS20 Final Project
 ===
-
 >***This project uses the lm function to do a linear regression model to analyze the impact of early covid-19 deaths on patients. Death is hard to discribe and seems to be random. However, there are still some similarities in the group that 
 died because of covid-19. Cause of its infectious nature. For example, older people are more likely to have other diseases, women are more likely to be physically inferior to men, and the number of deaths in areas with good medical conditions has less possibility. The purpose is to use patient data to predict the mortality of this group of people. And use the random forest algorithm to check the accuracy of the model.***
-
 >>1. Download the data package from the kaggel website, and after observing multiple data sets, finally decided to use the data before March. Because the characteristics of early covid-19 patients are more obvious, it may be related to Wuhan, or 
 the people around them are related to Wuhan. And the majority of confirmed cases occurred in China.
 >>2. Clean up the data. There are a large number of unrelated variables in the data set. Delete them firstly. Then I found that in the effective variable, there are more than 200 values missing for age. We use the median of age to fill. For some variables that are difficult to return, such as date. I assigned them a dummy character. I establish this relationship by creating a binary indicator variable, which is set to 1, otherwise set to 0. Finally, 75% of the data set is changed to the training set, and 25% to the test set.
